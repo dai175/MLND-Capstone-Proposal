@@ -42,13 +42,3 @@ The workflow is shown in the [Notebook](https://github.com/udacity/deep-learning
 * Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 * Step 5: Write your Algorithm
 * Step 6: Test Your Algorithm
-
------------
-
-**Before submitting your proposal, ask yourself. . .**
-
-- Does the proposal you have written follow a well-organized structure similar to that of the project template?
-- Is each section (particularly **Solution Statement** and **Project Design**) written in a clear, concise and specific fashion? Are there any ambiguous terms or phrases that need clarification?
-- Would the intended audience of your project be able to understand your proposal?
-- Have you properly proofread your proposal to assure there are minimal grammatical and spelling mistakes?
-- Are all the resources used for this project correctly cited and referenced?
